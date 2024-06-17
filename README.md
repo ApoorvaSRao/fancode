@@ -15,3 +15,5 @@ This project demonstrates how to execute the provided scenario for Fancode using
    ```sh
    git clone https://github.com/ApoorvaSRao/fancode.git
    cd fancode
+   import the pom.xml for the project in the IDE
+   execute the test **task50** from the class FanCode.java
