@@ -16,4 +16,5 @@ This project demonstrates how to execute the provided scenario for Fancode using
    git clone https://github.com/ApoorvaSRao/fancode.git
    cd fancode
    import the pom.xml for the project in the IDE
+   build the project using command: mvn clean install
    execute the test **task50** from the class FanCode.java
